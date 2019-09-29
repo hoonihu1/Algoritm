@@ -1,0 +1,6 @@
+echo # Algoritm  README.md
+git init
+git add README.md
+git commit -m first commit
+git remote add origin httpsgithub.comhoonihu1Algoritm.git
+git push -u origin master
